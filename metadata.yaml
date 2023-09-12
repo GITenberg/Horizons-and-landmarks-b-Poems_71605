@@ -1,0 +1,27 @@
+_repo: Horizons-and-landmarks-b-Poems_71605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lysaght, Sidney Royse
+    gutenberg_agent_id: '56299'
+    url: http://www.gutenberg.org/2009/agents/56299
+description: ''
+gutenberg_issued: '2023-09-10'
+identifiers:
+  gutenberg: '71605'
+language: en
+pgterms:marc904: https://archive.org/details/horizonslandmark00lysa/page/n7/mode/2up
+pgterms:marc905: 20220328212615lysaght
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bThe MacMillan and Co., Limited, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Horizons and landmarks : $b Poems'
+url: http://www.gutenberg.org/ebooks/71605
